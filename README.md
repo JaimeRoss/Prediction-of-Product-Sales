@@ -27,7 +27,7 @@ Data can include source and high-level description (e.g. # obs)
 #### Outlet Type VS Outlet Sales
 
 <p align = "center"> 
-  <img src = "https://raw.githubusercontent.com/coding-dojo-data-science/Project1_Exemplar/main/explanatory1.png](https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/outtype.PNG)">
+  <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/outtype.PNG">
 </p>
 
 > Sentence about visualization.
