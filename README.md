@@ -59,16 +59,32 @@ Metrics received from the above models
 >## Linear Regression Model:
  -------------------------
 > Training metrics:
+- MAE = 847.102
+- MSE = 1,298,649.624
+- RMSE = 1,139.583
+- R^2 = 0.561
 
-> Testing Metrics:
-
+  
+> Test Metrics:
+- MAE = 805.656
+- MSE = 1,197,421.441
+- RMSE = 1,094.268
+- R^2 = 0.566
 
 >## Random Forest Model:
 --------------------------
 > Training metrics:
+- MAE = 755.446
+- MSE = 1,152,804.652
+- RMSE = 1,073.687
+- R^2 = 0.610
 
-> Testing Metrics:
-
+  
+> Test Metrics:
+- MAE = 728.550
+- MSE = 1,096,437.307
+- RMSE = 1,047.109
+- R^2 = 0.603
 Refer to the metrics to describe how well the model would solve the business problem
 
 ## Recommendations:
