@@ -24,12 +24,16 @@ Data can include source and high-level description (e.g. # obs)
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
-![sample image](project1_sample_image.png)
+#### Outlet Type VS Outlet Sales
+![sample image](outtype.png)
 
 > Sentence about visualization.
 
-#### Visual 2 Title
+#### Outlet tye VS Outlet Sales
+![sample image](outlet sales.png)
+
+#### Mass Reatail Price VS Outlet Sales
+![sample image](mrp.png)
 
 ## Model
 
