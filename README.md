@@ -36,6 +36,7 @@ This dataset had 8523 rows and 12 columns.
 </p>
 
 > The above visual depicts the outlet location compared to the outlet sales.
+> The best performing outlet type belongs to the Tier 2 location.
 
 #### Outlet type VS Outlet Sales
 
@@ -44,6 +45,7 @@ This dataset had 8523 rows and 12 columns.
 </p>
 
 > The above visual depicts the outlet type/store type compared to the outlet sales.
+> Type 3 supermarkets have the highest outlet sales.
 
 #### Mass Retail Price VS Outlet Sales
 
