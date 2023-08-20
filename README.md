@@ -1,11 +1,10 @@
 # Prediction-of-Product-Sales
 
+## The goal of this analysis project is a sales prediction for food items sold at various stores. The aim of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales 
+
 <p align = "center"> 
   <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/ds.PNG">
 </p>
-
-
-## The goal of this analysis project is a sales prediction for food items sold at various stores. The aim of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales 
 
 **Author**: Jaime Ross
 
