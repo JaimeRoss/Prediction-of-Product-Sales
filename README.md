@@ -18,10 +18,10 @@ Data can include source and high-level description (e.g. # obs)
 
 
 ## Methods
-- Data cleaning (removing duplicates, handling missing values, fixing inconsistencies in data,etc.)
+- Data cleaning (removing duplicates, handling missing values, fixing inconsistencies in data, etc.)
 - Data exploration (EDA, data visualisation,etc.)
-- Data explanation (EDA, data visualisation,etc.)
-- Preparation for machine learning (data cleaning, imputation of missing values, scaling and encoding data,etc.)
+- Data explanation (EDA, data visualization, etc.)
+- Preparation for machine learning (data cleaning, imputation of missing values, scaling and encoding data, etc.)
 - Modelling (Fitting prepared data on various models.)
 
 ## Results
@@ -41,7 +41,7 @@ Data can include source and high-level description (e.g. # obs)
   <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/outlet sales.PNG">
 </p>
 
-> The above visual depicts the outlet type / store type compared to the outlet sales.
+> The above visual depicts the outlet type/store type compared to the outlet sales.
 
 #### Mass Retail Price VS Outlet Sales
 
@@ -57,19 +57,15 @@ Machine learning was completed by making use of the following regression models.
 
 > Linear regression Model
 
-> Random forest Model
+> Random Forest Model
+
+> Tune Random Forest Model
+
 
 Metrics received from the above models
 
 >## Linear Regression Model:
  -------------------------
-> Training metrics:
-- MAE = 847.102
-- MSE = 1,298,649.624
-- RMSE = 1,139.583
-- R^2 = 0.561
-
-  
 > Test Metrics:
 - MAE = 805.656
 - MSE = 1,197,421.441
@@ -78,30 +74,37 @@ Metrics received from the above models
 
 >## Random Forest Model:
 --------------------------
-> Training metrics:
-- MAE = 755.446
-- MSE = 1,152,804.652
-- RMSE = 1,073.687
-- R^2 = 0.610
+>Test Metrics:
+- MAE = 773.357
+- MSE = 1,246,634.453
+- RMSE = 1,116.528
+- R^2 = 0.548
 
-  
-> Test Metrics:
+>## Tuned Random Forest Model:
+---------------------------
+>Test Metrics:
 - MAE = 728.550
 - MSE = 1,096,437.307
 - RMSE = 1,047.109
 - R^2 = 0.603
 
   
-Refer to the metrics to describe how well the model would solve the business problem
+The best model out of all was the tuned random forest model with a max_depth of 5, N_estimators set to 110, and oob_score set to True. The tuned model managed to explain 60,3% of the variance in Y by making use of the features selected. The MAE for the tuned model was off by 728.55. The MSE for the model was 1,096,437.307. The RMSE was 1047.109.
+
+The model has improved after tuning, however, making use of this model may not yield the most reliable results.
 
 ## Recommendations:
 
-More of your own text here
+By looking at the above information we are able to derive the following:
+
+-
+-
+-
 
 
 ## Limitations & Next Steps
 
-More of your own text here
+By looking at the above information, the stakeholders are able to make use of the insights provided to make necessary decisions that would benefit the company, such as the optimal store size and type as well as the best-selling products.
 
 
 ### For further information
