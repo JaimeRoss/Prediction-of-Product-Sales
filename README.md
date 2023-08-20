@@ -56,14 +56,14 @@ Machine learning was completed by making use of the following regression models.
 Metrics received from the above models
 
 > Linear Regression Model:
- 
+ -------------------------
 > Training metrics:
 
 > Testing Metrics:
 
 
 > Random Forest Model:
-
+--------------------------
 > Training metrics:
 
 > Testing Metrics:
