@@ -51,6 +51,7 @@ Data can include source and high-level description (e.g. # obs)
 Machine learning was completed by making use of the following regression models.
 
 > Linear regression Model
+
 > Random forest Model
 
 Metrics received from the above models
