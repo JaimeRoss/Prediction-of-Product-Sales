@@ -21,8 +21,6 @@ Data can include source and high-level description (e.g. # obs)
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
 
 #### Outlet Type VS Outlet Sales
 
