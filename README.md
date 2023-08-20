@@ -14,7 +14,9 @@ The retailer/stakeholder would like a better understanding as to which propertie
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+The data used in this analysis was taken from the 2023 sales predictions.
+
+This dataset had 8523 rows and 12 columns.
 
 
 ## Methods
@@ -97,9 +99,9 @@ The model has improved after tuning, however, making use of this model may not y
 
 By looking at the above information we are able to derive the following:
 
--
--
--
+- The store location type that has the highest outlet sales belongs to the Tier 2 location.
+- The outlet types that have the highest outlet sales belong to the type 3 supermarkets.
+- An increase in mass retail prices has a positive effect on the total outlet sales.
 
 
 ## Limitations & Next Steps
