@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-The retailer / stakeholder would like a better understanding as to which properties of products and outlets play a crucial role in increasing product sales.
+The retailer/stakeholder would like a better understanding as to which properties of products and outlets play a crucial role in increasing product sales.
 
 
 ### Data:
@@ -48,9 +48,25 @@ Data can include source and high-level description (e.g. # obs)
 
 ## Model
 
-Describe your final model
+Machine learning was completed by making use of the following regression models.
 
-Report the most important metrics
+> Linear regression Model
+> Random forest Model
+
+Metrics received from the above models
+
+> Linear Regression Model:
+ 
+> Training metrics:
+
+> Testing Metrics:
+
+
+> Random Forest Model:
+
+> Training metrics:
+
+> Testing Metrics:
 
 Refer to the metrics to describe how well the model would solve the business problem
 
