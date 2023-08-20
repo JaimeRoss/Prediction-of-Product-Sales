@@ -30,7 +30,7 @@ Data can include source and high-level description (e.g. # obs)
   <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/outtype.PNG">
 </p>
 
-> Sentence about visualization.
+> The above visual depicts the outlet location compared to the outlet sales.
 
 #### Outlet type VS Outlet Sales
 
@@ -38,7 +38,7 @@ Data can include source and high-level description (e.g. # obs)
   <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/outlet sales.PNG">
 </p>
 
-The above visual depicts the outlet type / store type compared to the outlet sales.
+> The above visual depicts the outlet type / store type compared to the outlet sales.
 
 #### Mass Retail Price VS Outlet Sales
 
@@ -46,7 +46,7 @@ The above visual depicts the outlet type / store type compared to the outlet sal
   <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/mrp.PNG">
 </p>
 
-The above visual depicts the groupings for the mass retail price compared to the outlet sales.
+> The above visual depicts the groupings for the mass retail price compared to the outlet sales.
 
 ## Model
 
