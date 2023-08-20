@@ -38,11 +38,15 @@ Data can include source and high-level description (e.g. # obs)
   <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/outlet sales.PNG">
 </p>
 
+The above visual depicts the outlet type / store type compared to the outlet sales.
+
 #### Mass Retail Price VS Outlet Sales
 
 <p align = "center"> 
   <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/mrp.PNG">
 </p>
+
+The above visual depicts the groupings for the mass retail price compared to the outlet sales.
 
 ## Model
 
