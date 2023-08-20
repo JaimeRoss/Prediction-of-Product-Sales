@@ -85,6 +85,8 @@ Metrics received from the above models
 - MSE = 1,096,437.307
 - RMSE = 1,047.109
 - R^2 = 0.603
+
+  
 Refer to the metrics to describe how well the model would solve the business problem
 
 ## Recommendations:
