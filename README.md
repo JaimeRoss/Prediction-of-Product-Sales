@@ -32,11 +32,17 @@ Data can include source and high-level description (e.g. # obs)
 
 > Sentence about visualization.
 
-#### Outlet tye VS Outlet Sales
-![sample image](outlet sales.png)
+#### Outlet type VS Outlet Sales
 
-#### Mass Reatail Price VS Outlet Sales
-![sample image](mrp.png)
+<p align = "center"> 
+  <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/outlet sales.PNG">
+</p>
+
+#### Mass Retail Price VS Outlet Sales
+
+<p align = "center"> 
+  <img src = "https://github.com/JaimeRoss/Prediction-of-Product-Sales/blob/main/mrp.PNG">
+</p>
 
 ## Model
 
